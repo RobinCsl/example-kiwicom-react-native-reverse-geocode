@@ -5,6 +5,7 @@ To recreate:
 1. Run the following commands:
 ```
 $ npx expo init --yarn
+# Choose 'Bare workflow - minimal'
 $ yarn add @kiwicom/react-native-reverse-geocode
 ```
 
